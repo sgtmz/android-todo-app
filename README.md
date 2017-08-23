@@ -52,6 +52,7 @@ Challenges:
 * a lot of properties to set the UI layout, had a lot of problems aligning objects
 * in general, it's a little bit difficult to keep the code organized to avoid the "OnCreate" method to become too chaotic
 * didn't found too much time to add any optional feature (sorry!)
+* had a bit of troubles introducing persistency on file
 
 ## License
 
